@@ -2,5 +2,7 @@ hello-world
 ===========
 
 practice
+<<<<<<< HEAD
 #Git tutorial
-# - feauture-A
+- feauture-A
+- fix-B
