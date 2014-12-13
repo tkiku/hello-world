@@ -4,5 +4,6 @@ hello-world
 practice
 <<<<<<< HEAD
 #Git tutorial
-- feauture-A
+- feature-A
 - fix-B
+- feature-C
